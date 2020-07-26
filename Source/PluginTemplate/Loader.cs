@@ -18,7 +18,7 @@ namespace PluginTemplate
         internal static PluginConnectorRTC connectorRTC = null;
 
         public string Name => "PluginTemplate";
-        public string Description => "Allows you to display an image";
+        public string Description => "A template for RTC plugins";
 
         public string Author => "Your Name";
 
